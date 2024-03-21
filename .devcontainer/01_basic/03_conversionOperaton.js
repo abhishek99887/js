@@ -8,7 +8,7 @@ let valueIntNumber = Number(score)
 //console.log(valueIntNumber)
 
 
-// "33 => 33"
+// "33 => 33"  //
 // ""33abc => NaN (Not a NUmber)
 //true = 1 ; false =0;
 
